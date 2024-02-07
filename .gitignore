@@ -9,3 +9,7 @@ Lib
 Include
 *.cfg
 *.png
+*.svg
+*.tex
+*.mp4
+*.txt
