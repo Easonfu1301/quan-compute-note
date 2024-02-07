@@ -1,32 +1,11 @@
-# Prerequisites
-*.d
+# this is .gitignore file.
+# 以下是忽略的文件
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+.idea
+/venv
+__pycache__
+Scripts
+Lib
+Include
+*.cfg
+*.png
